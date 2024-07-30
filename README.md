@@ -43,6 +43,7 @@ The Police Resource Management System equips police departments with a comprehen
 
 Project can be found here - [https://ksp6.vercel.app](https://ksp6.vercel.app)
 > For login please use one of the following emails: psi@ksp.com, pi@ksp.com, dysp@ksp.com
+- Power BI Dashboard - [Police Performance Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODJkZjA5NDItM2I1Ni00ZmM5LTk2MzAtNTVkOTY5OTNiY2U4IiwidCI6IjQ0Y2EwNTVjLWM4YmQtNDk5NC1iYjIzLTMyOTFkMjA5YzA0YyIsImMiOjF9)
 
 ## Setup ⚙️
 
