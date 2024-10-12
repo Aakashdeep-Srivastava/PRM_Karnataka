@@ -27,17 +27,17 @@ The Police Resource Management System equips police departments with a comprehen
 
 ### Finale Demo Screenshots 🏆
 
-![Screenshot 1](https://github.com/Aakashdeep-Srivastava/PRM_Karnataka/blob/main/1.png)
-![Screenshot 2](https://github.com/Aakashdeep-Srivastava/PRM_Karnataka/blob/main/2.png)
-![Screenshot 3](https://github.com/Aakashdeep-Srivastava/PRM_Karnataka/blob/main/3.png)
+![Screenshot 1](https://github.com/Aakashdeep-Srivastava/PRM_Karnataka/blob/main/Images/1.png)
+![Screenshot 2](https://github.com/Aakashdeep-Srivastava/PRM_Karnataka/blob/main/Images/2.png)
+![Screenshot 3](https://github.com/Aakashdeep-Srivastava/PRM_Karnataka/blob/main/Images/3.png)
 ![Screenshot 4](https://github.com/Aakashdeep-Srivastava/PRM_Karnataka/blob/main/4.png)
-![Screenshot 5](https://github.com/Aakashdeep-Srivastava/PRM_Karnataka/blob/main/5.png)
-![Screenshot 6](https://github.com/Aakashdeep-Srivastava/PRM_Karnataka/blob/main/6.png)
-![Screenshot 7](https://github.com/Aakashdeep-Srivastava/PRM_Karnataka/blob/main/7.png)
-![Screenshot 8](https://github.com/Aakashdeep-Srivastava/PRM_Karnataka/blob/main/8.png)
-![Screenshot 9](https://github.com/Aakashdeep-Srivastava/PRM_Karnataka/blob/main/9.png)
-![Screenshot 10](https://github.com/Aakashdeep-Srivastava/PRM_Karnataka/blob/main/10.png)
-![Screenshot 11](https://github.com/Aakashdeep-Srivastava/PRM_Karnataka/blob/main/11.png)
+![Screenshot 5](https://github.com/Aakashdeep-Srivastava/PRM_Karnataka/blob/main/Images/5.png)
+![Screenshot 6](https://github.com/Aakashdeep-Srivastava/PRM_Karnataka/blob/main/Images/6.png)
+![Screenshot 7](https://github.com/Aakashdeep-Srivastava/PRM_Karnataka/blob/main/Images/7.png)
+![Screenshot 8](https://github.com/Aakashdeep-Srivastava/PRM_Karnataka/blob/main/Images/8.png)
+![Screenshot 9](https://github.com/Aakashdeep-Srivastava/PRM_Karnataka/blob/main/Images/9.png)
+![Screenshot 10](https://github.com/Aakashdeep-Srivastava/PRM_Karnataka/blob/main/Images/10.png)
+![Screenshot 11](https://github.com/Aakashdeep-Srivastava/PRM_Karnataka/blob/main/Images/11.png)
 
 ## Link 🔗
 
